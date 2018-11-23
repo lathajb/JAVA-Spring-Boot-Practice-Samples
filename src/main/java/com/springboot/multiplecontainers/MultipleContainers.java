@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 
-@SpringBootApplication
+/*@SpringBootApplication
 public class MultipleContainers {
 
 	public static void main(String[] args) {
@@ -33,3 +33,4 @@ public class MultipleContainers {
 		
 	}
 }
+*/
